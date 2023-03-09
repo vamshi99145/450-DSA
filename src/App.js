@@ -9,7 +9,7 @@ import About from './components/About/About';
 import Footer from './components/Footer/Footer';
 import ReactGA from 'react-ga';
 import './App.css';
-
+// eslint-disable-next-line
 // Creating a theme context
 export const ThemeContext = createContext(null);
 

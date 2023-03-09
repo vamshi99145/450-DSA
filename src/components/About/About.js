@@ -44,17 +44,17 @@ export default function About({ resetData, exportData, importData }) {
 							<a href="https://www.450dsa.com">450dsa</a> is your personal web-based progress tracker based on <br></br>
 							<i>
 								<a
-									href="https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view"
+									href=""
 									target="_blank"
 									rel="noopener noreferrer"
 								>
-									DSA Cracker Sheet
+									Multiple SDE Sheets
 								</a>
 							</i>{" "}
 							by{" "}
 							<b>
-								<a href="https://www.linkedin.com/in/love-babbar-38ab2887/" target="_blank" rel="noopener noreferrer">
-									Love Babbar
+								<a href="" target="_blank" rel="noopener noreferrer">
+									Best coders
 								</a>
 							</b>{" "}
 							<span role="img" aria-label="join-hands">
@@ -63,8 +63,8 @@ export default function About({ resetData, exportData, importData }) {
 						</h2>
 						<h4 className="text-center my-5">
 							Project by{" "}
-							<a href="https://www.linkedin.com/in/asishraju/" target="_blank" rel="noopener noreferrer">
-								Asish
+							<a href="https://www.linkedin.com/in/serla-vamshi-krishna/" target="_blank" rel="noopener noreferrer">
+								vamshi krishna
 							</a>{" "}
 							<span role="img" aria-label="code-men">
 								👨🏻‍💻
@@ -113,7 +113,7 @@ export default function About({ resetData, exportData, importData }) {
 						</h5>
 						<h3 className="text-center my-5">
 							<Badge>
-								For the{" "}
+								Love{" "}
 								<span role="img" aria-label="orange-hearth" className="emojiFix">
 									🧡
 								</span>{" "}
